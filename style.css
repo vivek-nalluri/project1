@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: none;
+}
+footer{
+    display: none;
+}
+#btn{
+    display: block;
+    padding: 10px;
+    background-color: #272525;
+    color: aquamarine;
+    border-radius: 5px;
+    border: 2px solid aqua;
+}
+#sbmt{
+    display: none;
+    padding: 10px;
+    background-color: #272525;
+    color: aquamarine;
+    border-radius: 5px;
+    border: 2px solid aqua;
+}

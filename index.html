@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <footer>
+    <script src="action.js"></script>
+    <button id="btn" onclick="display()">Sign Up</button>
+    <footer id="form">
        <center> <h1>Sign Up</h1></center>
        <center>
        <table>
@@ -28,7 +31,7 @@
             <td><input type="checkbox"></td>
         </tr>
         <tr>
-           <td><button type="submit">Submit</button></td>
+           <td><button id="sbmt" type="submit" onclick="sbmt()">Submit</button></td>
         </tr>
        </table>
        </center>
