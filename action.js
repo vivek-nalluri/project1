@@ -16,3 +16,17 @@ function sbmt()
     let f=document.getElementById("form")
     f.style.display="none";
 }
+function otl1()
+{
+    let a=document.getElementById("inp1")
+    a.style.outline="none";
+    let b=document.getElementById("inp1")
+    b.style.outline="none";
+}
+function otl2()
+{
+    let a=document.getElementById("inp2")
+    a.style.outline="none";
+    let b=document.getElementById("inp2")
+    b.style.outline="none";
+}

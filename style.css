@@ -13,6 +13,13 @@ footer{
     color: aquamarine;
     border-radius: 5px;
     border: 2px solid aqua;
+    cursor: pointer;
+}
+#inp1{
+    border: none;
+}
+#inp2{
+    border: none;
 }
 #sbmt{
     display: none;
@@ -21,4 +28,5 @@ footer{
     color: aquamarine;
     border-radius: 5px;
     border: 2px solid aqua;
+    cursor: pointer;
 }
